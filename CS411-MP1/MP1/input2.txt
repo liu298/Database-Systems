@@ -1,0 +1,4 @@
+Name,City,FavoriateBeer
+2
+Name->City
+Name->FavoriateBeer
